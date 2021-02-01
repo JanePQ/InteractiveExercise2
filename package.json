@@ -1,14 +1,14 @@
 {
-  "name": "InteractiveExercise2",
+  "name": "interactiveexercise2",
   "version": "1.0.0",
-  "description": "",
+  "description": "Interactive Exercise#2",
   "main": "server.js",
   "scripts": {
     "start": "node server",
     "dev": "nodemon server"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jane Quintos",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.7"
@@ -21,5 +21,13 @@
     "express-session": "^1.17.1",
     "method-override": "^3.0.0",
     "morgan": "^1.10.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JanePQ/InteractiveExercise2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JanePQ/InteractiveExercise2/issues"
+  },
+  "homepage": "https://github.com/JanePQ/InteractiveExercise2#readme"
 }
